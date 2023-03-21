@@ -9,6 +9,7 @@ Also maybe add folders called "Terminal_ouptut" and "backup", they arent nesseca
 competent so there might be bugs
 
 How to get your Discord token - https://www.youtube.com/watch?v=YEgFvgg7ZPI&t=48s
+
 How to get your OpenAI token - https://www.youtube.com/watch?v=Gd0JD2aHNDQ
 
 Thanks to WfSecs for "letting" me sample some code
